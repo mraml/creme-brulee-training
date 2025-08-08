@@ -25,6 +25,7 @@ ______________________________________________________________________
 <!-- Note that the list of rules under ### Rules: is read-only and changes will not be captured after assembly to JSON -->
 
 <!-- Add control implementation description here for control: sys-1.6.a2 -->
+This is an implementation for a solution that satisfies the control!
 
 ### Rules:
 
